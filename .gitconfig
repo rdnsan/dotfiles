@@ -1,0 +1,18 @@
+[user]
+	name = Ridwan Ikhsan
+	email = ridwan.jsx@gmail.com
+[core]
+	editor = code --wait
+[diff]
+	tool = default-difftool
+[difftool "default-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+[alias]
+	logone = log --oneline
+	co = commit
+[init]
+	defaultBranch = main
+[http]
+	sslVerify = false
+[credential]
+	helper = cache --timeout 604800
