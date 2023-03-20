@@ -1,0 +1,6 @@
+[user]
+	name = Ridwan Ikhsan
+	email = ridwan.jsx@gmail.com
+[alias]
+	logone = log --oneline
+	co = commit
